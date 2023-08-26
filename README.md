@@ -29,6 +29,10 @@ export RUNTIME_ENV=dev && export RUNTIME_TENANT=public && export RUNTIME_APP_NAM
 go run cmd/app/main.go
 ```
 
+### nacos配置信息如下
+![image](https://github.com/chenjl-ops/go-start-gin-gorm/assets/81603118/bbdf0d13-caac-4bb5-aa56-1c64e9bdc8fc)
+
+
 #### Swagger
 ```
 ## install swag
